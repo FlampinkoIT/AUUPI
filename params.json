@@ -1,6 +1,6 @@
 {
   "name": "Auupi",
   "tagline": "",
-  "body": "## Willkommen bei AUUPI",
+  "body": "# Willkommen bei AUUPI\r\n\r\nAUUPI ist ein kleines Projekt was damals aus der not herraaus entstanden ist und sich immer weiter entwickelt hat.\r\n\r\nAUUPI steht für:\r\nAutomatischer\r\nUpdate\r\nUnd\r\nProgramm\r\nInstaller\r\n\r\nGeschrieben in Batch ist AUUPI dafür gedacht nach einer neu Installation eines Windows Systems alle wichtigen und benötigten extra Programme wie Firefox, Java, Adobe Flaschplayer, Reader, Schockwave Player und verschiedene andere sachen zu installieren ohne dafür ewig im Internet nach allem suchen zu müssen. Mittlerweile hat sich das ganze aber zu einem größeren Programm ausgeweitet was verschiedene Software Updates und Programme beinhaltet.\r\n\r\nAUUPI lädt die Programme die Sie auswählen automatisch runter und Installiert sie ohne das sie etwas davon mit bekommen. Keine nervigen OK und Weiter buttons mehr. Ein Programm starten, alles auswählen was gewünscht wird und Fertig. \r\n\r\nEinfach wie AUUPI",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
